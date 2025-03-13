@@ -1,6 +1,6 @@
 ### Connected Vision Datasets
-
-<p align="center"> The table below provides an overview of various publicly available vision datasets used in action recognition, anomaly detection, and human activity recognition. Each dataset varies in terms of class diversity, resolution, and application focus. </p>
+<p align="center">
+The table below provides an overview of various publicly available vision datasets used in action recognition, anomaly detection, and human activity recognition. Each dataset varies in terms of class diversity, resolution, and application focus. </p>
 
 
 | #  | Dataset                                   | No of Classes | <p align="center">Description </p> |
